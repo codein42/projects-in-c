@@ -28,7 +28,7 @@ void loop2 (int a)
 }
 
 //using do while loop
-void loop3  (int a)
+void loop3 (int a)
 {
  int i=1,sum=0;
  do{
@@ -49,3 +49,6 @@ void main ()
  loop3 (n);
  getch();
 }
+
+
+
